@@ -1,0 +1,6 @@
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\bin\Debug\netcoreapp1.1\UnitOfWorkBatch.deps.json
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\bin\Debug\netcoreapp1.1\UnitOfWorkBatch.runtimeconfig.json
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\bin\Debug\netcoreapp1.1\UnitOfWorkBatch.runtimeconfig.dev.json
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\bin\Debug\netcoreapp1.1\UnitOfWorkBL.dll
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\obj\Debug\netcoreapp1.1\UnitOfWorkBatch.csprojResolveAssemblyReference.cache
+C:\Users\superman\Repos\UOWTemplate\UnitOfWorkTemplate\UnitOfWorkTemplate\obj\Debug\netcoreapp1.1\UnitOfWorkBatch.AssemblyInfo.cs
